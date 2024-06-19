@@ -55,7 +55,10 @@ The trained model is evaluated on the test set, and the predicted stock prices a
 
 ## Usage
 To use the stock price prediction model, follow these steps:
-Clone the repository: git clone https://github.com/your-username/stock-price-prediction.git
+Clone the repository: 
+```
+git clone https://github.com/Bhudil/Stock_Price_Pred_LSTM.git
+```
 Install the required dependencies (see the Dependencies section)
 Prepare your own stock data in the same format as the provided dataset
 Update the file paths in the code to point to your dataset
